@@ -1,3 +1,16 @@
+# 📌 INTRODUCTION  
+
+Dataset:  
+- UCI Bank Marketing Repository — records from a marketing campaign promoting term deposits.  
+Content:  
+- Includes customer details such as age, job, call duration, previous campaign outcome, and contact month.  
+
+# 🎯 OBJECTIVE  
+- Predict whether a customer will subscribe to a term deposit.  
+- Preprocess the data, including encoding categorical features.  
+- Train and evaluate Logistic Regression and Random Forest models using Accuracy, F1-score, and ROC AUC.  
+- Use LIME to explain predictions and highlight the most influential factors.
+
 # ✅ FINAL CONCLUSION
 
 Model Results:  
@@ -28,3 +41,4 @@ LIME analysis of 5 predictions per model showed that the most influential featur
 
 Summary: 
 Random Forest combined with LIME delivers both predictive power and interpretability. These tools enable data-driven, targeted marketing that can increase subscription rates while reducing wasted outreach.
+
